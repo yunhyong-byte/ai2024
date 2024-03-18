@@ -1,0 +1,13 @@
+name: AI2024
+channels:
+  - defaults
+  - pytorch
+  - conda-forge
+dependencies:
+  - python=3.9
+  - anaconda
+  - openai
+  - pigar
+  - opencv
+  - spacy
+prefix: C:\Users\Yunhyong\anaconda3\envs\AI2024
